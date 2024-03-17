@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1.FACULTATE\\ANUL 3\\SEM 2\\RTS\\Lab\\Castrase-Sergiu-Gabriel_30332_RTS-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1.FACULTATE\\ANUL 3\\SEM 2\\RTS\\Lab\\Castrase-Sergiu-Gabriel_30332_RTS-Lab\\LabSession1\\app1\\Main.java||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabSession1\\app1\\Main.java||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1.FACULTATE\\ANUL 3\\SEM 2\\RTS\\Lab\\Castrase-Sergiu-Gabriel_30332_RTS-Lab\\LabSession1\\app1\\Window.java||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabSession1\\app1\\Window.java||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1.FACULTATE\\ANUL 3\\SEM 2\\RTS\\Lab\\Castrase-Sergiu-Gabriel_30332_RTS-Lab\\LabSession1\\app1\\Fir.java||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabSession1\\app1\\Fir.java||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window.java",
+              "DocumentMoniker": "D:\\1.FACULTATE\\ANUL 3\\SEM 2\\RTS\\Lab\\Castrase-Sergiu-Gabriel_30332_RTS-Lab\\LabSession1\\app1\\Window.java",
+              "RelativeDocumentMoniker": "LabSession1\\app1\\Window.java",
+              "ToolTip": "D:\\1.FACULTATE\\ANUL 3\\SEM 2\\RTS\\Lab\\Castrase-Sergiu-Gabriel_30332_RTS-Lab\\LabSession1\\app1\\Window.java",
+              "RelativeToolTip": "LabSession1\\app1\\Window.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAX8SURBVFhH5VdLiBxFGP76OT09M73ZyeaFSQwRURG8iZiDwYARgzl5DwQ8iARvuYSAsDmEeBAMJARhNWpilGg0GhEkHoLEiwpBDdGQh2Q3\u002B8hsdmd3dmZnprur/Kp6umd3XddAFnLw7/mnunqm6vvq\u002B/96NB6oSSk7dw/OjE6J8ON90tr6KkTlNDDyBeQffRA3eiEHA8RjPqoNHxWRRyXnYsx3MZnLoep5qLKcdj3UXBczTg517Q5mbeUuIseEdABhWRC2AWma8J5YjRs7ixrb1Og0Y815hBcGYJS3A6ueg7FpCsZDdWB1AyiHcH2JIhsHLQdBI4d8Kw\u002Bv6dNLcFsl2O0SjKgAIQqIpY\u002BW4aNp5RG5DoRnwCjFsHpD\u002BE/1wd5gdVDnKBCd3SLhxWhfegl2owwxcxlyogoxXkRzuogZglSjIiZlAXedAm55JYzmSxjP0V0q5PiYcvOo2TnM2B4aloPQsgGLYTYlDFti/ZYY5mYTcQ249qyvsTMC7cPbpZETCM\u002BVEf/G0QiPo6FswsZUzqfkecpNIJaTLEcIPOT1sgxQcUqYtAuYInjDcDl6myoocbPusXZliMJ2A2EvNIHr2xYQaO59RcIVaP9QRHQljz2TQ51fuiZ4RYi1qyu9n1uPZVoX\u002Bjt5LtB75CqmN8YISwKyJnF9x4IciEd8iGHGrOYgCindArsfcP085mhDzrwWQzLb6ZSWEYhGPESjPgnkEM4hcDL8Rvup8FucDr/rdNr1t88fxYXw5yXB9b1gZ7EBs23AbnZD0yVQIYEx\u002BgynTrtL4LP\u002BE6hXZ7Sf6j8\u002BD1xdkpeyJcHpoVKgLWE1BcymbqItI9CcZAJVPdRDzmnH08\u002BU7J8e\u002BBD1KRKgf3RgYB64KlMCS4Gr35QCMuRsoAIuSaSWEaiIEiqRmlIsi4EGT8GUKZi0nnVMkAReEUif/xNc3xPTYggc5oEVZrBdAsNWgGEzwKC/EpVCaR5YAiKzegquyq4Cqr44uK6rccQSJklYVCK1jMBIIcBtfwX\u002BKpFAMSGgG9IVuGqS1ksrufoVc7wT2PDIRoyPVpYEj2USAsG1wSS4RRVSywjcIagCHiz2aBKqoero\u002BV0vwivkkae/sGuHBuk/eQifXPoS735/HGvWr8UvF5NZkLZZCK7qSgFJBQylAPMgtYzAOOOuCIwWezFYKuuOlO8d2I\u002BevhXa9w/062fnTn6FKIrw9NZnNPhb\u002Bw4qqH8F1/mk8i7inhCxJJHUMiq7Xr4oY242Q9YK1pipX\u002B/udNjpuBPzuQD/JXsKrkr3zRrW9TF8lMIdM/DjwcL8lXAsSEIwkSug4nE57nS0HODqUiEQOgk5C6JFknCsJ9Ak1GajdjbV0XKBq5LbDGyGQM0CUy6SA3cJPk6vEbxmcUXUnS0PuLp8jlyToDtiEQITQZFewKxpoc1teDnB1dEvHwvY/I/Je5PPUssIcAsHsWGofZyZupzgygp65CYsllacwc4lQGY8uxlKHS4UKcCv0VVcjq7jz\u002BgmrsW3cDO\u002BjcF4FMPxHf37vYAr85mAOSGpAndDY5Fp2PNOU7IvhFd4iJwEHj3zpAY4MHBIr4PpxW6z6/Xdr90TuLJtb8zy3CmpAolUgLOHk2mYESgfJQEmSvN3EpgANp95/L5ln2s79zQQraH8QiB318DnHQJZCHiKBs\u002BRtKTxcoIry6tZwDCoHDC7OdhVYO37LR2C2k8Ggtk6ynadKydPsOSYlJwdlqlPurFlIGbGCpacMMwbnvdVabJchAAPxdhSjVFepcgbVAA4dSQ5E2YENpxoSaoDe2gWjh1yLOyMnpAlIL8liQgFou9VU/Wiob/1f9UnMa75fKKmXTL3KTs7eJiki9MGvIqBD44tOJTyJQbebBORJ/hGY6FlmxwxQ0GPlWZ0gzuJLUMmUpveojd5wGAZsd5xW3sLZhTypaWFnkYd66br2DTVQE\u002BlxmU4BiEyyzg/dnhCzlyb84syyqnkU4czPeyOqUaJ1N1Ra1XUuJUy/Kh7izkUxNyAqECJ8Q\u002B4DAexA48vLsfe6\u002Bm0/H8b8DdOMvEfhF8F7AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-17T11:33:33.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.java",
+              "DocumentMoniker": "D:\\1.FACULTATE\\ANUL 3\\SEM 2\\RTS\\Lab\\Castrase-Sergiu-Gabriel_30332_RTS-Lab\\LabSession1\\app1\\Main.java",
+              "RelativeDocumentMoniker": "LabSession1\\app1\\Main.java",
+              "ToolTip": "D:\\1.FACULTATE\\ANUL 3\\SEM 2\\RTS\\Lab\\Castrase-Sergiu-Gabriel_30332_RTS-Lab\\LabSession1\\app1\\Main.java",
+              "RelativeToolTip": "LabSession1\\app1\\Main.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAX8SURBVFhH5VdLiBxFGP76OT09M73ZyeaFSQwRURG8iZiDwYARgzl5DwQ8iARvuYSAsDmEeBAMJARhNWpilGg0GhEkHoLEiwpBDdGQh2Q3\u002B8hsdmd3dmZnprur/Kp6umd3XddAFnLw7/mnunqm6vvq\u002B/96NB6oSSk7dw/OjE6J8ON90tr6KkTlNDDyBeQffRA3eiEHA8RjPqoNHxWRRyXnYsx3MZnLoep5qLKcdj3UXBczTg517Q5mbeUuIseEdABhWRC2AWma8J5YjRs7ixrb1Og0Y815hBcGYJS3A6ueg7FpCsZDdWB1AyiHcH2JIhsHLQdBI4d8Kw\u002Bv6dNLcFsl2O0SjKgAIQqIpY\u002BW4aNp5RG5DoRnwCjFsHpD\u002BE/1wd5gdVDnKBCd3SLhxWhfegl2owwxcxlyogoxXkRzuogZglSjIiZlAXedAm55JYzmSxjP0V0q5PiYcvOo2TnM2B4aloPQsgGLYTYlDFti/ZYY5mYTcQ249qyvsTMC7cPbpZETCM\u002BVEf/G0QiPo6FswsZUzqfkecpNIJaTLEcIPOT1sgxQcUqYtAuYInjDcDl6myoocbPusXZliMJ2A2EvNIHr2xYQaO59RcIVaP9QRHQljz2TQ51fuiZ4RYi1qyu9n1uPZVoX\u002Bjt5LtB75CqmN8YISwKyJnF9x4IciEd8iGHGrOYgCindArsfcP085mhDzrwWQzLb6ZSWEYhGPESjPgnkEM4hcDL8Rvup8FucDr/rdNr1t88fxYXw5yXB9b1gZ7EBs23AbnZD0yVQIYEx\u002BgynTrtL4LP\u002BE6hXZ7Sf6j8\u002BD1xdkpeyJcHpoVKgLWE1BcymbqItI9CcZAJVPdRDzmnH08\u002BU7J8e\u002BBD1KRKgf3RgYB64KlMCS4Gr35QCMuRsoAIuSaSWEaiIEiqRmlIsi4EGT8GUKZi0nnVMkAReEUif/xNc3xPTYggc5oEVZrBdAsNWgGEzwKC/EpVCaR5YAiKzegquyq4Cqr44uK6rccQSJklYVCK1jMBIIcBtfwX\u002BKpFAMSGgG9IVuGqS1ksrufoVc7wT2PDIRoyPVpYEj2USAsG1wSS4RRVSywjcIagCHiz2aBKqoero\u002BV0vwivkkae/sGuHBuk/eQifXPoS735/HGvWr8UvF5NZkLZZCK7qSgFJBQylAPMgtYzAOOOuCIwWezFYKuuOlO8d2I\u002BevhXa9w/062fnTn6FKIrw9NZnNPhb\u002Bw4qqH8F1/mk8i7inhCxJJHUMiq7Xr4oY242Q9YK1pipX\u002B/udNjpuBPzuQD/JXsKrkr3zRrW9TF8lMIdM/DjwcL8lXAsSEIwkSug4nE57nS0HODqUiEQOgk5C6JFknCsJ9Ak1GajdjbV0XKBq5LbDGyGQM0CUy6SA3cJPk6vEbxmcUXUnS0PuLp8jlyToDtiEQITQZFewKxpoc1teDnB1dEvHwvY/I/Je5PPUssIcAsHsWGofZyZupzgygp65CYsllacwc4lQGY8uxlKHS4UKcCv0VVcjq7jz\u002BgmrsW3cDO\u002BjcF4FMPxHf37vYAr85mAOSGpAndDY5Fp2PNOU7IvhFd4iJwEHj3zpAY4MHBIr4PpxW6z6/Xdr90TuLJtb8zy3CmpAolUgLOHk2mYESgfJQEmSvN3EpgANp95/L5ln2s79zQQraH8QiB318DnHQJZCHiKBs\u002BRtKTxcoIry6tZwDCoHDC7OdhVYO37LR2C2k8Ggtk6ynadKydPsOSYlJwdlqlPurFlIGbGCpacMMwbnvdVabJchAAPxdhSjVFepcgbVAA4dSQ5E2YENpxoSaoDe2gWjh1yLOyMnpAlIL8liQgFou9VU/Wiob/1f9UnMa75fKKmXTL3KTs7eJiki9MGvIqBD44tOJTyJQbebBORJ/hGY6FlmxwxQ0GPlWZ0gzuJLUMmUpveojd5wGAZsd5xW3sLZhTypaWFnkYd66br2DTVQE\u002BlxmU4BiEyyzg/dnhCzlyb84syyqnkU4czPeyOqUaJ1N1Ra1XUuJUy/Kh7izkUxNyAqECJ8Q\u002B4DAexA48vLsfe6\u002Bm0/H8b8DdOMvEfhF8F7AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-17T11:33:32.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fir.java",
+              "DocumentMoniker": "D:\\1.FACULTATE\\ANUL 3\\SEM 2\\RTS\\Lab\\Castrase-Sergiu-Gabriel_30332_RTS-Lab\\LabSession1\\app1\\Fir.java",
+              "RelativeDocumentMoniker": "LabSession1\\app1\\Fir.java",
+              "ToolTip": "D:\\1.FACULTATE\\ANUL 3\\SEM 2\\RTS\\Lab\\Castrase-Sergiu-Gabriel_30332_RTS-Lab\\LabSession1\\app1\\Fir.java",
+              "RelativeToolTip": "LabSession1\\app1\\Fir.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAX8SURBVFhH5VdLiBxFGP76OT09M73ZyeaFSQwRURG8iZiDwYARgzl5DwQ8iARvuYSAsDmEeBAMJARhNWpilGg0GhEkHoLEiwpBDdGQh2Q3\u002B8hsdmd3dmZnprur/Kp6umd3XddAFnLw7/mnunqm6vvq\u002B/96NB6oSSk7dw/OjE6J8ON90tr6KkTlNDDyBeQffRA3eiEHA8RjPqoNHxWRRyXnYsx3MZnLoep5qLKcdj3UXBczTg517Q5mbeUuIseEdABhWRC2AWma8J5YjRs7ixrb1Og0Y815hBcGYJS3A6ueg7FpCsZDdWB1AyiHcH2JIhsHLQdBI4d8Kw\u002Bv6dNLcFsl2O0SjKgAIQqIpY\u002BW4aNp5RG5DoRnwCjFsHpD\u002BE/1wd5gdVDnKBCd3SLhxWhfegl2owwxcxlyogoxXkRzuogZglSjIiZlAXedAm55JYzmSxjP0V0q5PiYcvOo2TnM2B4aloPQsgGLYTYlDFti/ZYY5mYTcQ249qyvsTMC7cPbpZETCM\u002BVEf/G0QiPo6FswsZUzqfkecpNIJaTLEcIPOT1sgxQcUqYtAuYInjDcDl6myoocbPusXZliMJ2A2EvNIHr2xYQaO59RcIVaP9QRHQljz2TQ51fuiZ4RYi1qyu9n1uPZVoX\u002Bjt5LtB75CqmN8YISwKyJnF9x4IciEd8iGHGrOYgCindArsfcP085mhDzrwWQzLb6ZSWEYhGPESjPgnkEM4hcDL8Rvup8FucDr/rdNr1t88fxYXw5yXB9b1gZ7EBs23AbnZD0yVQIYEx\u002BgynTrtL4LP\u002BE6hXZ7Sf6j8\u002BD1xdkpeyJcHpoVKgLWE1BcymbqItI9CcZAJVPdRDzmnH08\u002BU7J8e\u002BBD1KRKgf3RgYB64KlMCS4Gr35QCMuRsoAIuSaSWEaiIEiqRmlIsi4EGT8GUKZi0nnVMkAReEUif/xNc3xPTYggc5oEVZrBdAsNWgGEzwKC/EpVCaR5YAiKzegquyq4Cqr44uK6rccQSJklYVCK1jMBIIcBtfwX\u002BKpFAMSGgG9IVuGqS1ksrufoVc7wT2PDIRoyPVpYEj2USAsG1wSS4RRVSywjcIagCHiz2aBKqoero\u002BV0vwivkkae/sGuHBuk/eQifXPoS735/HGvWr8UvF5NZkLZZCK7qSgFJBQylAPMgtYzAOOOuCIwWezFYKuuOlO8d2I\u002BevhXa9w/062fnTn6FKIrw9NZnNPhb\u002Bw4qqH8F1/mk8i7inhCxJJHUMiq7Xr4oY242Q9YK1pipX\u002B/udNjpuBPzuQD/JXsKrkr3zRrW9TF8lMIdM/DjwcL8lXAsSEIwkSug4nE57nS0HODqUiEQOgk5C6JFknCsJ9Ak1GajdjbV0XKBq5LbDGyGQM0CUy6SA3cJPk6vEbxmcUXUnS0PuLp8jlyToDtiEQITQZFewKxpoc1teDnB1dEvHwvY/I/Je5PPUssIcAsHsWGofZyZupzgygp65CYsllacwc4lQGY8uxlKHS4UKcCv0VVcjq7jz\u002BgmrsW3cDO\u002BjcF4FMPxHf37vYAr85mAOSGpAndDY5Fp2PNOU7IvhFd4iJwEHj3zpAY4MHBIr4PpxW6z6/Xdr90TuLJtb8zy3CmpAolUgLOHk2mYESgfJQEmSvN3EpgANp95/L5ln2s79zQQraH8QiB318DnHQJZCHiKBs\u002BRtKTxcoIry6tZwDCoHDC7OdhVYO37LR2C2k8Ggtk6ynadKydPsOSYlJwdlqlPurFlIGbGCpacMMwbnvdVabJchAAPxdhSjVFepcgbVAA4dSQ5E2YENpxoSaoDe2gWjh1yLOyMnpAlIL8liQgFou9VU/Wiob/1f9UnMa75fKKmXTL3KTs7eJiki9MGvIqBD44tOJTyJQbebBORJ/hGY6FlmxwxQ0GPlWZ0gzuJLUMmUpveojd5wGAZsd5xW3sLZhTypaWFnkYd66br2DTVQE\u002BlxmU4BiEyyzg/dnhCzlyb84syyqnkU4czPeyOqUaJ1N1Ra1XUuJUy/Kh7izkUxNyAqECJ8Q\u002B4DAexA48vLsfe6\u002Bm0/H8b8DdOMvEfhF8F7AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-17T11:33:29.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
